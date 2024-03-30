@@ -1,0 +1,35 @@
+.section, section {
+    margin-bottom: 100px;
+}
+/* header start */
+.logo-container {
+    max-width: 50%;
+}
+.bg-orange{
+    background-color: #eaaf47;
+}
+/* header end */
+
+/* main start */
+.latest-news h1 {
+    font-weight: 700;
+    color: #eaaf47;
+}
+.banner img {
+    width: 100%;
+}
+.info-img img {
+    width: 100%;
+}
+.social a {
+    text-decoration: none;
+}
+/* main end */
+
+/* footer */
+footer a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #121212;
+}
+
